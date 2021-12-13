@@ -1,0 +1,272 @@
+.heading h1 {
+    text-align: center;
+    color: grey;
+}
+
+.cover {
+    background-image: url(images/cover.jpg);
+    width: 100%;
+    height: 715px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.search-box {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.search-box input {
+    height: 40px;
+    width: 20%;
+    border-radius: 10px;
+}
+.search-box button {
+    height: 40px;
+    width: 5%;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+.first img {
+    height: 300px;
+    width: 300px;
+}
+.second img {
+    height: 300px;
+    width: 300px;
+}
+.third img {
+    height: 300px;
+    width: 300px;
+}
+.fourth img {
+    height: 300px;
+    width: 300px;
+}
+.float-1 {
+    float: left;
+}
+.div-1 {
+    margin-left: 60px;
+}
+
+
+.fifth img {
+    height: 300px;
+    width: 300px;
+}
+.sixth img {
+    height: 300px;
+    width: 300px;
+}
+.seventh img {
+    height: 300px;
+    width: 300px;
+}
+.eighth img {
+    height: 300px;
+    width: 300px;
+}
+.float-2 {
+    float: left;
+}
+.div-2 {
+    margin-left: 60px;
+}
+
+
+
+.nine img {
+    height: 300px;
+    width: 300px;
+}
+.ten img {
+    height: 300px;
+    width: 300px;
+}
+.eleven img {
+    height: 300px;
+    width: 300px;
+}
+.twelve img {
+    height: 300px;
+    width: 300px;
+}
+.float-3 {
+    float: left;
+}
+.div-3 {
+    margin-left: 60px;
+}
+
+
+.thirteen img {
+    height: 250px;
+    width: 300px;
+}
+.fourteen img {
+    height: 250px;
+    width: 300px;
+}
+.fifteen img {
+    height: 250px;
+    width: 300px;
+}
+.sixteen img {
+    height: 250px;
+    width: 300px;
+}
+.float-4 {
+    float: left;
+}
+.div-4 {
+    margin-left: 60px;
+}
+
+
+.seventeen img {
+    height: 300px;
+    width: 300px;
+}
+.eighteen img {
+    height: 300px;
+    width: 300px;
+}
+.nineteen img {
+    height: 300px;
+    width: 300px;
+}
+.twenty img {
+    height: 300px;
+    width: 300px;
+}
+.float-5 {
+    float: left;
+}
+.div-5 {
+    margin-left: 60px;
+}
+
+
+.t-one img {
+    height: 300px;
+    width: 300px;
+}
+.t-two img {
+    height: 300px;
+    width: 300px;
+}
+.t-three img {
+    height: 300px;
+    width: 300px;
+}
+.t-four img {
+    height: 300px;
+    width: 300px;
+}
+.float-6 {
+    float: left;
+}
+.div-6 {
+    margin-left: 60px;
+}
+
+
+
+.t-five img {
+    height: 250px;
+    width: 300px;
+}
+.t-six img {
+    height: 250px;
+    width: 300px;
+}
+.t-seven img {
+    height: 250px;
+    width: 300px;
+}
+.t-eight img {
+    height: 250px;
+    width: 300px;
+}
+.float-7 {
+    float: left;
+}
+.div-7 {
+    margin-left: 60px;
+}
+
+
+.t-nine img {
+    height: 250px;
+    width: 300px;
+}
+.t-ten img {
+    height: 250px;
+    width: 300px;
+}
+.float-8 {
+    float: left;
+}
+.div-8 {
+    margin-left: 400px;
+}
+
+
+.footer {
+    border: 1px solid skyblue;
+    clear: both;
+    display: inline-block;
+    margin-top: 20px;
+    width: 97%;
+    background-color: skyblue;
+    border-radius: 10px;
+    padding-left: 40px;
+}
+
+.socialnetwork {
+    width: 33%;
+}
+.socialnetwork ul li {
+    list-style-type: none;
+}
+.socialnetwork a {
+    text-decoration: none;
+    color: hsla(350, 88%, 44%, 0.842);
+    font-size: 20px;
+}
+.socialnetwork-2 {
+    width: 33%;
+}
+.socialnetwork-2 ul li {
+    list-style-type: none;
+}
+.socialnetwork-2 a {
+    text-decoration: none;
+    color: hsla(350, 88%, 44%, 0.842);
+    font-size: 20px;
+}
+.socialnetwork-3 {
+    width: 33%;
+}
+.socialnetwork-3 ul li {
+    list-style-type: none;
+}
+.socialnetwork-3 a {
+    text-decoration: none;
+    color: hsla(350, 88%, 44%, 0.842);
+    font-size: 20px;
+}
+
+.anam {
+    float: left;
+}
+
+.copyright {
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+
+}
